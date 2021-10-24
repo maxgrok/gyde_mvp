@@ -31,9 +31,12 @@ Helps connect those who need help with reliable, trustworthy solutions, starting
 
 ## What we learned
 
-How to use Tally. How to qualify fields of data for BatchGeo.com. How to deploy your own NFT on Mintgate.io and token-gate content. How to deploy and use a Governor contract to hook up to Tally. How to create a space on Snapshot to do off-chain quadratic voting for token holders of the ERC20 that I made for the DAO ($GYDE) on rinkeby. 
-
-That snapshot does not allow testnet ENS domains for creating spaces. That Tally does not provide native support for NFT-gating communities. 
+- How to use Tally. 
+- How to qualify fields of data for BatchGeo.com. 
+- How to deploy your own NFT on Mintgate.io and token-gate content. 
+- How to deploy and use a Governor contract to hook up to Tally. 
+- How to create a space on Snapshot to do off-chain quadratic voting for token holders of the ERC20 that I made for the DAO ($GYDE) on rinkeby. 
+- That snapshot does not allow testnet ENS domains for creating spaces. That Tally does not provide native support for NFT-gating communities. 
 
 ## What's next for Gyde
 
