@@ -39,14 +39,14 @@ That snapshot does not allow testnet ENS domains for creating spaces. That Tally
 
 See the living product roadmap: gyde.community. 
 
-### ETHLisbon: Low-fi web app prototyping; SPA, DAO, and ERC20 launch, then -->
+### ETHLisbon: Low-fi web app prototyping; SPA, DAO, and ERC20 launch, then...
 
-### User research, Low-Fi prototyping iteration, then -->
+### User research, Low-Fi prototyping iteration, then...
 
-###  High-Fidelity UX/UI Sprints and Brand Palette, then -->
+###  High-Fidelity UX/UI Sprints and Brand Palette, then ...
 
-###  Building App with Engineering Sprints, then -->
+###  Building App with Engineering Sprints, then...
 
-### Building App, then -->
+### Building App, then...
 
 ### Launch 1.0
